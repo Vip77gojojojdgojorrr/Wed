@@ -1,0 +1,8 @@
+body {
+      background-image: url('https://www.w3schools.com/w3images/mountains.jpg');
+        background-size: cover;
+          background-repeat: no-repeat; 
+            background-attachment: fixed;
+              background-color: #f0f0f0; 
+              }
+}
